@@ -3,12 +3,11 @@ title: 'Island Pets is a full service in-home pet sitting company '
 subtitle: servicing Alameda since 2008.
 image: /img/jax-dot_edited.jpg
 blurb:
-  heading: Why Kaldi?
+  heading: Why Island Pets?
   text: >-
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    Island Pets is the collaborated efforts of four veterinary professionals
+    with over 30 years of pet sitting experience. We are insured through Pet
+    Sitters Associates, LLC and are licensed with the City of Alameda.
 intro:
   heading: What we offer
   text: >-
