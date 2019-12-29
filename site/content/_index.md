@@ -1,7 +1,7 @@
 ---
 title: 'Island Pets is a full service in-home pet sitting company '
 subtitle: servicing Alameda since 2008.
-image: /img/jackie-tiller.webp
+image: /img/jax-dot_edited.jpg
 blurb:
   heading: Why Kaldi?
   text: >-
