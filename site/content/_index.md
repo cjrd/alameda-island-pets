@@ -1,6 +1,5 @@
 ---
-title: 'Island Pets is a full service in-home pet sitting company '
-subtitle: servicing Alameda since 2008.
+title: 'Island Pets is a full service in-home pet sitting company servicing Alameda since 2008.'
 image: /img/jax-dot_edited.jpg
 blurb:
   heading: Why Island Pets?
