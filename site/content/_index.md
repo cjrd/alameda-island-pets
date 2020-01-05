@@ -2,38 +2,26 @@
 title: 'Island Pets is a full service in-home pet sitting company servicing Alameda since 2008.'
 image: /img/jax-dot_edited.jpg
 blurb:
-  heading: Why Island Pets?
+  heading: A little about island pets
   text: >-
     Island Pets is the collaborated efforts of four veterinary professionals
     with over 30 years of pet sitting experience. We are insured through Pet
     Sitters Associates, LLC and are licensed with the City of Alameda.
 intro:
-  heading: What we offer
-  text: >-
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone.
-products:
-  - image: img/illustrations-coffee.svg
-    text: >-
-      We sell green and roasted coffee beans that are sourced directly from
-      independent farmers and farm cooperatives. We’re proud to offer a variety
-      of coffee beans grown with great care for the environment and local
-      communities. Check our post or contact us directly for current
-      availability.
-  - image: /img/illustrations-coffee-gear.svg
-    text: >-
-      We offer a small, but carefully curated selection of brewing gear and
-      tools for every taste and experience level. No matter if you roast your
-      own beans or just bought your first french press, you’ll find a gadget to
-      fall in love with in our shop.
-values:
-  heading: Our values
-  text: >-
-    Coffee is an amazing part of human culture but it has a dark side too – one
-    of colonialism and mindless abuse of natural resources and human lives. We
-    want to turn this around and return the coffee trade to the drink’s
-    exhilarating, empowering and unifying nature.
+  heading: Voted Best Pet Sitter in Alameda
+  image1: /img/best-of-alameda-20111.jpg
+  link1: http://www.alamedamagazine.com/Alameda-Magazine/July-August-2012/Best-of-Alameda-2012/  
+  image2: /img/bestofalameda2012_cover.jpg
+  link2: http://www.alamedamagazine.com/Alameda-Magazine/July-August-2012/Best-of-Alameda-2012/
+pricing:
+  heading: Services
+  services:
+    - plan: Free Consultation
+      description: We provide a free in home consultation! This is the time when we get to meet you and your pets, discuss your pets' needs and set up a personalized pet sitting experience for you and your pets.
+    - plan: In home pet sitting
+      description: Our standard in-home pet sitting service includes 20-30 minutes of love and care for your pet, including walking, playing, food/water replacement, litter box cleaning/sanitization, medicine administration, and pet record keeping. We're also happy to water your plants and bring in your mail!
+    - plan: House Sitting
+      description: Our house sitting service includes taking care of anything in your house while you're away such as watering plants, collecting mail and packages, setting out garbage bins, turning blinds, or anything else you may need.
+      
 ---
 

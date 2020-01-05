@@ -1,16 +1,18 @@
 <div class="bg-off-white pv4 ph3">
 
-	<div class="mw7 center">
+    <div class="mw7 center">
+        <h2 class="bb mw5 pb2 center b--grey f5 mt0 mb3 ttu tc b">{{.heading}}</h2>
+	<p class="mw6">{{.description}}</p>
 
-		<h2 class="f2 b lh-title mb3">{{.heading}}</h2>
-		<p class="mw6">{{.description}}</p>
-
-		<div class="flex-ns mhn2-ns mw7">
-			{{ range .plans }}
-			<div class="w-33-ns ph2">{{ partial "table-column" . }}</div>
-			{{ end }}
-		</div>
-
+	<div class="flex-ns mhn2-ns mw7 justify-between">
+	    {{ range .services }}
+	    <div class="w-33-ns ph2 ba br1 b--primary mh2">
+	        <h3 style="max-width: 12em;" class="b f6 bb b--primary pb3 center grey-3 tc lh-title mt4 mb3 ttu">{{.plan}}</h3>
+	        <p class="tc lh-copy f6 ph2">{{.description}}</p>
+            </div>
+	    {{ end }}
 	</div>
+
+    </div>
 
 </div>

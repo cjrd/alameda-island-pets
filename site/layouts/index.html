@@ -6,8 +6,12 @@
 
 {{ partial "2-up" .Params }}
 
-{{ partial "text-and-image" (dict "heading" .Params.values.heading "text" .Params.values.text "buttonText" "Read more" "buttonLink" "/values") }}
+{{ partial "table" .Params.pricing }}
 
-{{ partial "blog" . }}
+<div class="ph3 bg-off-white">
+	<div class="center mw6 pv3">
+            {{ partial "contact-form" }}
+        </div>
+</div>
 
 {{ end }}
