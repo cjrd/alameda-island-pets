@@ -1,4 +1,7 @@
 :root {
+  /* Page size */
+  --page-max-width: 1800px;
+  
     /* Colors */
     --primary: #82CDB1;
     --highlight: rgba(254, 213, 198, 1);
